@@ -3,9 +3,8 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+
   - [Screenshot](#screenshot)
-  - [Links](#links)
   - [Built with](#built-with)
   - -[Colors Used](#colors-used)
 
@@ -19,7 +18,6 @@
 
 ### Links
 
-- [Solution URL]: (https://your-solution-url.com)
 - [Live Site URL]: (https://your-live-site-url.com)
 
 
